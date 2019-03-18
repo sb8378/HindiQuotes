@@ -2,6 +2,12 @@
     "categoryList": [
         {
             "title": {
+                "text":"Featured Quotes"
+            },
+            "Background":"https://images.pexels.com/photos/40873/women-old-shepherd-nature-40873.jpeg?h=1000&amp;w=1000"
+        },
+        {
+            "title": {
                 "text":"Age Quotes"
             },
             "Background":"https://images.pexels.com/photos/40873/women-old-shepherd-nature-40873.jpeg?h=1000&amp;w=1000"
